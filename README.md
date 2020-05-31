@@ -22,7 +22,7 @@ Run `docker-compose run --rm artisan key:generate`
 ## Create database
 Run `docker-compose run --rm artisan migrate`
 
-##Usage
+## Usage
 
 Open up your browser of choice to [http://localhost:8080](http://localhost:8080) and you should see your app running as intended.
 
@@ -36,7 +36,7 @@ Open up your browser of choice to [http://localhost:8080](http://localhost:8080)
 - `docker-compose run --rm composer update`
 - `docker-compose run --rm artisan migrate`
 
-##Containers created and their ports are as follows:
+## Containers created and their ports are as follows:
 
 - **nginx** - `:8080`
 - **mysql** - `:3306`

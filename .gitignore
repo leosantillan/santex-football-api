@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+/src/.DS_Store
+/src/node_modules
+/src/public/hot
+/src/public/storage
+/src/storage/*.key
+/src/vendor
+/src/.env
+/src/.env.backup
+/mysql
+.phpunit.result.cache
+artisan.sh
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
